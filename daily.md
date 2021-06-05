@@ -1,3 +1,10 @@
+## 2021-06-04
+|paper|code|
+|---|---|
+|[channel estimation for one-bit multiuser massive mimo using conditional gan](https://arxiv.org/abs/2006.11435)|[Channel_Estimation_cGAN](https://github.com/YudiDong/Channel_Estimation_cGAN)|
+|[gender bias in depression detection using audio features](https://arxiv.org/abs/2010.15120)|[DepAudioNet_reproduction](https://github.com/adbailey1/DepAudioNet_reproduction)|
+|[heppcat: probabilistic pca for data with heteroscedastic noise](https://arxiv.org/abs/2101.03468)|[heteroscedastic-probabilistic-pca](https://gitlab.com/dahong/heteroscedastic-probabilistic-pca)|
+|[multi-uav path planning for wireless data harvesting with deep reinforcement learning](https://arxiv.org/abs/2010.12461)|[uav_data_harvesting](https://github.com/hbayerlein/uav_data_harvesting)|
 ## 2021-06-03
 |paper|code|
 |---|---|
