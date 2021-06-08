@@ -1,3 +1,8 @@
+## 2021-06-07
+|paper|code|
+|---|---|
+|[cold: concurrent loads disaggregator for non-intrusive load monitoring](https://arxiv.org/abs/2106.02352)|[cold-nilm](https://github.com/arx7ti/cold-nilm)|
+|[homological time series analysis of sensor signals from power plants](https://arxiv.org/abs/2106.02493)|[TwirlFlake](https://github.com/karhunenloeve/TwirlFlake)|
 ## 2021-06-04
 |paper|code|
 |---|---|
