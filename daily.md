@@ -1,3 +1,8 @@
+## 2021-06-11
+|paper|code|
+|---|---|
+|[generating mimo channels for 6g virtual worlds using ray-tracing simulations](https://arxiv.org/abs/2106.05377)|[SSP-Raymobtime](https://github.com/lasseufpa/SSP-Raymobtime)|
+|[aerial reconfigurable intelligent surface-aided wireless communication systems](https://arxiv.org/abs/2106.05380)|[Aerial-RIS](https://github.com/trinhudo/Aerial-RIS)|
 ## 2021-06-10
 |paper|code|
 |---|---|
