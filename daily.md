@@ -1,3 +1,9 @@
+## 2021-07-07
+|paper|code|
+|---|---|
+|[discrete signal processing on meet/join lattices](https://arxiv.org/abs/2012.04358)|[lattice-signal-processing](https://github.com/bseifert-HSA/lattice-signal-processing)|
+|[rodnet: a real-time radar object detection network cross-supervised by camera-radar fused object 3d localization](https://arxiv.org/abs/2102.05150)|[RODNet](https://github.com/yizhou-wang/RODNet)|
+|[learning semantic segmentation of large-scale point clouds with random sampling](https://arxiv.org/abs/2107.02389)|[RandLA-Net](https://github.com/QingyongHu/RandLA-Net)|
 ## 2021-07-06
 |paper|code|
 |---|---|
