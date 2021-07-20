@@ -1,3 +1,10 @@
+## 2021-07-19
+|paper|code|
+|---|---|
+|[kernel learning for high-resolution time-frequency distribution](https://arxiv.org/abs/2007.00322)|[KL-TFD](https://github.com/teki97/KL-TFD)|
+|[depth estimation from monocular images and sparse radar using deep ordinal regression network](https://arxiv.org/abs/2107.07596)|[DORN_radar](https://github.com/lochenchou/DORN_radar)|
+|[learning optimal representations with the decodable information bottleneck](https://arxiv.org/abs/2009.12789)|[Mini_Decodable_Information_Bottleneck](https://github.com/YannDubs/Mini_Decodable_Information_Bottleneck)|
+|[information flows of diverse autoencoders](https://arxiv.org/abs/2102.07402)|[IPRL](https://github.com/Sungyeop/IPRL)|
 ## 2021-07-16
 |paper|code|
 |---|---|
