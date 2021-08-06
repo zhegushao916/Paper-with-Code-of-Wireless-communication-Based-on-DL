@@ -1,3 +1,7 @@
+## 2021-08-05
+|paper|code|
+|---|---|
+|[random convolution kernels with multi-scale decomposition for preterm eeg inter-burst detection](https://arxiv.org/abs/2108.02039)|[ms_rocket](https://github.com/otoolej/ms_rocket)|
 ## 2021-08-04
 |paper|code|
 |---|---|
