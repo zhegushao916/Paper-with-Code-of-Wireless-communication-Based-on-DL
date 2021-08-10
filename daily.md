@@ -1,3 +1,7 @@
+## 2021-08-09
+|paper|code|
+|---|---|
+|[searching for waveforms on spatially-filtered epileptic ecog](https://arxiv.org/abs/2103.13853)|[cspwave](https://github.com/chmendoza/cspwave)|
 ## 2021-08-06
 |paper|code|
 |---|---|
