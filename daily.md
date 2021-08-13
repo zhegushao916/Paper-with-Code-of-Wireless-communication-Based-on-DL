@@ -1,7 +1,12 @@
+## 2021-08-12
+|paper|code|
+|---|---|
+|[statistical inference in the differential privacy model](https://arxiv.org/abs/2108.05000)|[INSPECTRE](https://github.com/HuanyuZhang/INSPECTRE)|
 ## 2021-08-11
 |paper|code|
 |---|---|
 |[adversarially-trained nonnegative matrix factorization](https://arxiv.org/abs/2104.04757)|[AT_NMF](https://github.com/caiting123321/AT_NMF)|
+|[an open framework for analyzing and modeling xr network traffic](https://arxiv.org/abs/2108.04577)|[ns-3-vr-app](https://github.com/signetlabdei/ns-3-vr-app)|
 |[a generalizable model-and-data driven approach for open-set rff authentication](https://arxiv.org/abs/2108.04436)|[ns-rff](https://github.com/xrj-com/ns-rff)|
 ## 2021-08-10
 |paper|code|
