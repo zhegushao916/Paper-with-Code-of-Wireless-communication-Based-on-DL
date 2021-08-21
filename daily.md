@@ -1,3 +1,11 @@
+## 2021-08-20
+|paper|code|
+|---|---|
+|[chmusic: a traditional chinese music dataset for evaluation of instrument recognition](https://arxiv.org/abs/2108.08470)|[chmusic](https://github.com/haoranweiutd/chmusic)|
+|[synthesis of logical clifford operators via symplectic geometry](https://arxiv.org/abs/1803.06987)|[symplectic-arxiv18a](https://github.com/nrenga/symplectic-arxiv18a)|
+|[kerdock codes determine unitary 2-designs](https://arxiv.org/abs/1904.07842)|[symplectic-arxiv18a](https://github.com/nrenga/symplectic-arxiv18a)|
+|[logical clifford synthesis for stabilizer codes](https://arxiv.org/abs/1907.00310)|[symplectic-arxiv18a](https://github.com/nrenga/symplectic-arxiv18a)|
+|[belief propagation with quantum messages for quantum-enhanced classical communications](https://arxiv.org/abs/2003.04356)|[bpqm](https://github.com/nrenga/bpqm)|
 ## 2021-08-19
 |paper|code|
 |---|---|
