@@ -1,3 +1,7 @@
+## 2021-09-24
+|paper|code|
+|---|---|
+|[quantization and deployment of deep neural networks on microcontrollers](https://arxiv.org/abs/2105.13331)|[microai_public](https://bitbucket.org/edge-team-leat/microai_public)|
 ## 2021-09-23
 |paper|code|
 |---|---|
