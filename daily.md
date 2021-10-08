@@ -1,3 +1,10 @@
+## 2021-10-07
+|paper|code|
+|---|---|
+|[point process simulation of generalised inverse gaussian processes and estimation of the jaeger integral](https://arxiv.org/abs/2105.09429)|[GiG](https://github.com/yamankindap/GiG)|
+|[unrolling particles: unsupervised learning of sampling distributions](https://arxiv.org/abs/2110.02915)|[unrolling-particles](https://github.com/fgfgama/unrolling-particles)|
+|[phase retrieval using expectation consistent signal recovery algorithm based on hypernetwork](https://arxiv.org/abs/2101.04348)|[gec-sr-pr-hypernets](https://github.com/wangchangjen/gec-sr-pr-hypernets)|
+|[lossy compression for lossless prediction](https://arxiv.org/abs/2106.10800)|[lossyless](https://github.com/YannDubs/lossyless)|
 ## 2021-10-06
 |paper|code|
 |---|---|
