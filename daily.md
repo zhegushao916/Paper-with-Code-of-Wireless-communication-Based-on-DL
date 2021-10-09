@@ -1,7 +1,14 @@
+## 2021-10-08
+|paper|code|
+|---|---|
+|[multi-head relu implicit neural representation networks](https://arxiv.org/abs/2110.03448)|[mh-relu-inr](https://github.com/alirezamorsali/mh-relu-inr)|
+|[joint inference of multiple graphs with hidden variables from stationary graph signals](https://arxiv.org/abs/2110.03666)|[hidden_joint_inference](https://github.com/reysam93/hidden_joint_inference)|
 ## 2021-10-07
 |paper|code|
 |---|---|
 |[point process simulation of generalised inverse gaussian processes and estimation of the jaeger integral](https://arxiv.org/abs/2105.09429)|[GiG](https://github.com/yamankindap/GiG)|
+|[an approximate expectation-maximization for two-dimensional multi-target detection](https://arxiv.org/abs/2110.02289)|[mtd-2d-em](https://github.com/krshay/mtd-2d-em)|
+|[a local updating algorithm for personalized pagerank via chebyshev polynomials](https://arxiv.org/abs/2110.02538)|[pagerank_updating_chebyshev_paper](https://github.com/estbautista/pagerank_updating_chebyshev_paper)|
 |[unrolling particles: unsupervised learning of sampling distributions](https://arxiv.org/abs/2110.02915)|[unrolling-particles](https://github.com/fgfgama/unrolling-particles)|
 |[phase retrieval using expectation consistent signal recovery algorithm based on hypernetwork](https://arxiv.org/abs/2101.04348)|[gec-sr-pr-hypernets](https://github.com/wangchangjen/gec-sr-pr-hypernets)|
 |[lossy compression for lossless prediction](https://arxiv.org/abs/2106.10800)|[lossyless](https://github.com/YannDubs/lossyless)|
