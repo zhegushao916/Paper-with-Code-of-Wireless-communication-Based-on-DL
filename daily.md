@@ -1,8 +1,18 @@
+## 2021-10-12
+|paper|code|
+|---|---|
+|[pm2.5-gnn: a domain knowledge enhanced graph neural network for pm2.5 forecasting](https://arxiv.org/abs/2002.12898)|[PM2.5-GNN](https://github.com/shawnwang-tech/PM2.5-GNN)|
+|[privacy for free: wireless federated learning via uncoded transmission with adaptive power control](https://arxiv.org/abs/2006.05459)|[Privacy4Free_DPWFL](https://github.com/kclip/Privacy4Free_DPWFL)|
+|[deep joint source-channel coding for wireless image transmission with adaptive rate control](https://arxiv.org/abs/2110.04456)|[dynamic_jscc](https://github.com/mingyuyng/dynamic_jscc)|
+|[application of graph convolutions in a lightweight model for skeletal human motion forecasting](https://arxiv.org/abs/2110.04810)|[lightweight-motion-forecasting](https://github.com/LucaHermes/lightweight-motion-forecasting)|
+|[wavefuse: a unified deep framework for image fusion with discrete wavelet transform](https://arxiv.org/abs/2007.14110)|[WaveFuse_code](https://github.com/slliuEric/WaveFuse_code)|
+|[transfer learning based multi-objective genetic algorithm for dynamic community detection](https://arxiv.org/abs/2109.15136)|[TMOGA](https://github.com/zjg540066169/TMOGA)|
 ## 2021-10-11
 |paper|code|
 |---|---|
 |[direct design of biquad filter cascades with deep learning by sampling random polynomials](https://arxiv.org/abs/2110.03691)|[iirnet](https://github.com/csteinmetz1/iirnet)|
 |[ensemble neural representation networks](https://arxiv.org/abs/2110.04124)|[enrp](https://github.com/alirezamorsali/enrp)|
+|[operanet: a multimodal activity recognition dataset acquired from radio frequency and vision-based sensors](https://arxiv.org/abs/2110.04239)|[oddet](https://github.com/rogetk/oddet)|
 |[randomized continuous frames in time-frequency analysis](https://arxiv.org/abs/2009.10525)|[LTFT-Phase-Vocoder](https://github.com/RonLevie/LTFT-Phase-Vocoder)|
 ## 2021-10-08
 |paper|code|
