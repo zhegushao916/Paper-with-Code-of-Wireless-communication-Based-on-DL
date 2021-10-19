@@ -1,3 +1,7 @@
+## 2021-10-18
+|paper|code|
+|---|---|
+|[edge-sr: super-resolution for the masses](https://arxiv.org/abs/2108.10335)|[esr](https://github.com/pnavarre/esr)|
 ## 2021-10-15
 |paper|code|
 |---|---|
