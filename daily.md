@@ -1,3 +1,8 @@
+## 2021-11-01
+|paper|code|
+|---|---|
+|[channel estimation and data detection analysis of massive mimo with 1-bit adcs](https://arxiv.org/abs/2102.10172)|[ch_est_data_det_1-bit](https://github.com/italo-atzeni/ch_est_data_det_1-bit)|
+|[ecg-based heart arrhythmia diagnosis through attentional convolutional neural networks](https://arxiv.org/abs/2108.10226)|[heart-arrhythmia-diagnosis-with-deep-learning](https://github.com/ziyuliu-lion/heart-arrhythmia-diagnosis-with-deep-learning)|
 ## 2021-10-29
 |paper|code|
 |---|---|
