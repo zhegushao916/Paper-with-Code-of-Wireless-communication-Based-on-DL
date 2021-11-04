@@ -1,6 +1,12 @@
+## 2021-11-03
+|paper|code|
+|---|---|
+|[a machine-learning-based direction-of-origin filter for the identification of radio frequency interference in the search for technosignatures](https://arxiv.org/abs/2108.00559)|[doom](https://github.com/UCLA-SETI-Group/doom)|
+|[efficient hierarchical bayesian inference for spatio-temporal regression models in neuroimaging](https://arxiv.org/abs/2111.01692)|[dugh-neurips-2021](https://github.com/alihashemi-ai/dugh-neurips-2021)|
 ## 2021-11-02
 |paper|code|
 |---|---|
+|[complex convolutional neural networks for ultrafast ultrasound image reconstruction from in-phase/quadrature signal](https://arxiv.org/abs/2009.11536)|[cid-net](https://github.com/jingfeng-lu/cid-net)|
 |[unique sparse decomposition of low rank matrices](https://arxiv.org/abs/2106.07736)|[Unique_Fac_of_Low_Rank](https://github.com/Jindiande/Unique_Fac_of_Low_Rank)|
 |[a novel 1d state space for efficient music rhythmic analysis](https://arxiv.org/abs/2111.00704)|[1d-statespace](https://github.com/mjhydri/1d-statespace)|
 |[an information-theoretic approach to distribution shifts](https://arxiv.org/abs/2106.03783)|[dsit](https://github.com/mfederici/dsit)|
