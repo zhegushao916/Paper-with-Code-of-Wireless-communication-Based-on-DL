@@ -1,3 +1,12 @@
+## 2021-11-08
+|paper|code|
+|---|---|
+|[correlation-aware cooperative multigroup broadcast 360{\deg} video delivery network: a hierarchical deep reinforcement learning approach](https://arxiv.org/abs/2010.11347)|[Hierarchical-Multi-agent-DRL-with-Federated-Learning](https://github.com/paperflight/Hierarchical-Multi-agent-DRL-with-Federated-Learning)|
+|[scalable perception-action-communication loops with convolutional and graph neural networks](https://arxiv.org/abs/2106.13358)|[VGAI](https://github.com/VITA-Group/VGAI)|
+|[scalable multi-agent reinforcement learning algorithm for wireless networks](https://arxiv.org/abs/2108.00506)|[Fed-MF-MAL](https://github.com/paperflight/Fed-MF-MAL)|
+|[millimeter wave wireless assisted robot navigation with link state classification](https://arxiv.org/abs/2110.14789)|[mmwRobotNav](https://github.com/nyu-wireless/mmwRobotNav)|
+|[compressing sensor data for remote assistance of autonomous vehicles using deep generative models](https://arxiv.org/abs/2111.03201)|[deep_generative_models](https://github.com/daniel-bogdoll/deep_generative_models)|
+|[deep-learning based linear precoding for mimo channels with finite-alphabet signaling](https://arxiv.org/abs/2111.03504)|[optimalprecodingmimo](https://github.com/girnyk/optimalprecodingmimo)|
 ## 2021-11-05
 |paper|code|
 |---|---|
