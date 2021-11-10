@@ -1,3 +1,15 @@
+## 2021-11-09
+|paper|code|
+|---|---|
+|[estimating the magnitude and phase of automotive radar signals under multiple interference sources with fully convolutional networks](https://arxiv.org/abs/2008.05948)|[arim-v2](https://github.com/ristea/arim-v2)|
+|[towards off-the-grid algorithms for total variation regularized inverse problems](https://arxiv.org/abs/2104.06706)|[tvsfw](https://github.com/rpetit/tvsfw)|
+|[homological time series analysis of sensor signals from power plants](https://arxiv.org/abs/2106.02493)|[TwirlFlake](https://github.com/karhunenloeve/TwirlFlake)|
+|[learning sparse analytic filters for piano transcription](https://arxiv.org/abs/2108.10382)|[sparse-analytic-filters](https://github.com/cwitkowitz/sparse-analytic-filters)|
+|[rf-net: a unified meta-learning framework for rf-enabled one-shot human activity recognition](https://arxiv.org/abs/2111.04566)|[rfnet](https://github.com/di0002ya/rfnet)|
+|[frequency-dependent $f$-number increases the contrast and the spatial resolution in fast pulse-echo ultrasound imaging](https://arxiv.org/abs/2111.04593)|[f_number](https://github.com/mschiffn/f_number)|
+|[linguistic dependencies and statistical dependence](https://arxiv.org/abs/2104.08685)|[cpmi-dependencies](https://github.com/mcqll/cpmi-dependencies)|
+|[a space of goals: the cognitive geometry of informationally bounded agents](https://arxiv.org/abs/2111.03699)|[cognitive-geometry](https://gitlab.com/uh-adapsys/cognitive-geometry)|
+|[geodesic curves in gaussian random field manifolds](https://arxiv.org/abs/2111.03905)|[rk4_geodesic_gmrf](https://github.com/alexandrelevada/rk4_geodesic_gmrf)|
 ## 2021-11-08
 |paper|code|
 |---|---|
@@ -5,7 +17,6 @@
 |[scalable perception-action-communication loops with convolutional and graph neural networks](https://arxiv.org/abs/2106.13358)|[VGAI](https://github.com/VITA-Group/VGAI)|
 |[scalable multi-agent reinforcement learning algorithm for wireless networks](https://arxiv.org/abs/2108.00506)|[Fed-MF-MAL](https://github.com/paperflight/Fed-MF-MAL)|
 |[millimeter wave wireless assisted robot navigation with link state classification](https://arxiv.org/abs/2110.14789)|[mmwRobotNav](https://github.com/nyu-wireless/mmwRobotNav)|
-|[compressing sensor data for remote assistance of autonomous vehicles using deep generative models](https://arxiv.org/abs/2111.03201)|[deep_generative_models](https://github.com/daniel-bogdoll/deep_generative_models)|
 |[deep-learning based linear precoding for mimo channels with finite-alphabet signaling](https://arxiv.org/abs/2111.03504)|[optimalprecodingmimo](https://github.com/girnyk/optimalprecodingmimo)|
 ## 2021-11-05
 |paper|code|
