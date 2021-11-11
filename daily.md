@@ -1,3 +1,12 @@
+## 2021-11-10
+|paper|code|
+|---|---|
+|[lord-net: unfolded deep detection network with low-resolution receivers](https://arxiv.org/abs/2102.02993)|[LoRD-Net](https://github.com/skhobahi/LoRD-Net)|
+|[proactive and aoi-aware failure recovery for stateful nfv-enabled zero-touch 6g networks: model-free drl approach](https://arxiv.org/abs/2103.03817)|[ZT-PFR](https://github.com/wildsky95/ZT-PFR)|
+|[transfer bayesian meta-learning via weighted free energy minimization](https://arxiv.org/abs/2106.10711)|[meta_learning_pacoh](https://github.com/jonasrothfuss/meta_learning_pacoh)|
+|[compressing sensor data for remote assistance of autonomous vehicles using deep generative models](https://arxiv.org/abs/2111.03201)|[deep_generative_models](https://github.com/daniel-bogdoll/deep_generative_models)|
+|[phase retrieval using expectation consistent signal recovery algorithm based on hypernetwork](https://arxiv.org/abs/2101.04348)|[gec-sr-pr-hypernets](https://github.com/wangchangjen/gec-sr-pr-hypernets)|
+|[can information flows suggest targets for interventions in neural circuits?](https://arxiv.org/abs/2111.05299)|[ann-info-flow](https://github.com/praveenv253/ann-info-flow)|
 ## 2021-11-09
 |paper|code|
 |---|---|
