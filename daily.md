@@ -1,3 +1,8 @@
+## 2021-11-18
+|paper|code|
+|---|---|
+|[lidar and position-aided mmwave beam selection with non-local cnns and curriculum training](https://arxiv.org/abs/2104.14579)|[LIDAR-mmWave-Beam-Selection](https://github.com/MatteoEURECOM/LIDAR-mmWave-Beam-Selection)|
+|[deep learning based mac via joint channel access and rate adaptation](https://arxiv.org/abs/2106.10307)|[Wireless-Signal-Strength-on-2.4GHz-WSS24-dataset](https://github.com/postman511/Wireless-Signal-Strength-on-2.4GHz-WSS24-dataset)|
 ## 2021-11-17
 |paper|code|
 |---|---|
