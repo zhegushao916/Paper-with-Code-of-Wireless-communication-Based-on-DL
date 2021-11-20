@@ -1,8 +1,14 @@
+## 2021-11-19
+|paper|code|
+|---|---|
+|[deep reinforcement learning-designed radiofrequency waveform in mri](https://arxiv.org/abs/2105.03061)|[deeprf](https://github.com/snu-list/deeprf)|
+|[integrating expert knowledge with domain adaptation for unsupervised fault diagnosis](https://arxiv.org/abs/2107.01849)|[syn2real](https://github.com/qinenergy/syn2real)|
 ## 2021-11-18
 |paper|code|
 |---|---|
 |[lidar and position-aided mmwave beam selection with non-local cnns and curriculum training](https://arxiv.org/abs/2104.14579)|[LIDAR-mmWave-Beam-Selection](https://github.com/MatteoEURECOM/LIDAR-mmWave-Beam-Selection)|
 |[deep learning based mac via joint channel access and rate adaptation](https://arxiv.org/abs/2106.10307)|[Wireless-Signal-Strength-on-2.4GHz-WSS24-dataset](https://github.com/postman511/Wireless-Signal-Strength-on-2.4GHz-WSS24-dataset)|
+|[error coefficient-improved polar/pac codes](https://arxiv.org/abs/2111.08843)|[Error-Coefficient-reduced-Polar-PAC-Codes](https://github.com/mohammad-rowshan/Error-Coefficient-reduced-Polar-PAC-Codes)|
 ## 2021-11-17
 |paper|code|
 |---|---|
