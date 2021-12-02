@@ -1,3 +1,8 @@
+## 2021-12-01
+|paper|code|
+|---|---|
+|[scalable machine learning architecture for neonatal seizure detection on ultra-edge devices](https://arxiv.org/abs/2111.15569)|[NeonatalSeizureDetection](https://github.com/vishaln15/NeonatalSeizureDetection)|
+|[mathematical models for fake news](https://arxiv.org/abs/1809.00964)|[Fake_News](https://github.com/dmmeier/Fake_News)|
 ## 2021-11-30
 |paper|code|
 |---|---|
