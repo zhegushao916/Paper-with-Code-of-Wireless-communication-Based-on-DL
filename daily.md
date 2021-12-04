@@ -1,7 +1,14 @@
+## 2021-12-03
+|paper|code|
+|---|---|
+|[self-supervised graph representation learning via topology transformations](https://arxiv.org/abs/2105.11689)|[topo-ter](https://github.com/gyshgx868/topo-ter)|
+|[embedding decomposition for artifacts removal in eeg signals](https://arxiv.org/abs/2112.00989)|[deepseparator](https://github.com/ncclabsustech/deepseparator)|
+|[quantum advantage in learning from experiments](https://arxiv.org/abs/2112.00778)|[ReCirq](https://github.com/quantumlib/ReCirq)|
 ## 2021-12-02
 |paper|code|
 |---|---|
 |[localized fourier analysis for graph signal processing](https://arxiv.org/abs/1906.04529)|[loclets](https://bitbucket.org/batistbucket/loclets)|
+|[heppcat: probabilistic pca for data with heteroscedastic noise](https://arxiv.org/abs/2101.03468)|[heteroscedastic-probabilistic-pca](https://gitlab.com/heppcat-group/heteroscedastic-probabilistic-pca)|
 |[hottbox: higher order tensor toolbox](https://arxiv.org/abs/2111.15662)|[hottbox](https://github.com/hottbox/hottbox)|
 |[deepaoanet: learning angle of arrival from software defined radios with deep neural networks](https://arxiv.org/abs/2112.00695)|[deepaoanet](https://github.com/zdai257/deepaoanet)|
 ## 2021-12-01
