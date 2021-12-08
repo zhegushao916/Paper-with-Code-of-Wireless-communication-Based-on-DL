@@ -1,8 +1,18 @@
+## 2021-12-07
+|paper|code|
+|---|---|
+|[eeg-based emotional video classification via learning connectivity structure](https://arxiv.org/abs/1905.11678)|[bsc_lcs](https://github.com/ELEMKEP/bsc_lcs)|
+|[estimating the electrical power output of industrial devices with end-to-end time-series classification in the presence of label noise](https://arxiv.org/abs/2105.00349)|[SREA](https://github.com/Castel44/SREA)|
+|[under the sand: navigation and localization of a micro aerial vehicle for landmine detection with ground penetrating synthetic aperture radar](https://arxiv.org/abs/2106.10108)|[mav_findmine](https://github.com/ethz-asl/mav_findmine)|
+|[my(o) armband leaks passwords: an emg and imu based keylogging side-channel attack](https://arxiv.org/abs/2112.02382)|[myo-keylogging](https://github.com/seemoo-lab/myo-keylogging)|
+|[robust compressed sensing mri with deep generative priors](https://arxiv.org/abs/2108.01368)|[csgm-mri-langevin](https://github.com/utcsilab/csgm-mri-langevin)|
+|[compressive visual representations](https://arxiv.org/abs/2109.12909)|[compressive-visual-representations](https://github.com/google-research/compressive-visual-representations)|
 ## 2021-12-06
 |paper|code|
 |---|---|
 |[irs-aided swipt: joint waveform, active and passive beamforming design under nonlinear harvester model](https://arxiv.org/abs/2012.05646)|[irs-aided-swipt-joint-waveform-active-and-passive-beamforming-design-under-nonlinear-harvester-model](https://github.com/snowztail/irs-aided-swipt-joint-waveform-active-and-passive-beamforming-design-under-nonlinear-harvester-model)|
 |[stride: a flexible platform for high-performance ultrasound computed tomography](https://arxiv.org/abs/2110.03345)|[stride](https://github.com/trustimaging/stride)|
+|[disentangling modes with crossover instantaneous frequencies by synchrosqueezed chirplet transforms, from theory to application](https://arxiv.org/abs/2112.01857)|[synchrosqueezed-chirplet-transforms](https://github.com/ziyuchen7/synchrosqueezed-chirplet-transforms)|
 ## 2021-12-03
 |paper|code|
 |---|---|
