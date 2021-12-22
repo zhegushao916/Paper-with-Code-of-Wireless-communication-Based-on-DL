@@ -1,3 +1,7 @@
+## 2021-12-21
+|paper|code|
+|---|---|
+|[expression is enough: improving traffic signal control with advanced traffic state representation](https://arxiv.org/abs/2112.10107)|[Advanced_XLight](https://github.com/LiangZhang1996/Advanced_XLight)|
 ## 2021-12-20
 |paper|code|
 |---|---|
