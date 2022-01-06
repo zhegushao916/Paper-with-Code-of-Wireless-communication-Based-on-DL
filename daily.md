@@ -1,3 +1,10 @@
+## 2022-01-05
+|paper|code|
+|---|---|
+|[self-supervised representation learning from 12-lead ecg data](https://arxiv.org/abs/2103.12676)|[ecg-selfsupervised](https://github.com/hhi-aml/ecg-selfsupervised)|
+|[homological time series analysis of sensor signals from power plants](https://arxiv.org/abs/2106.02493)|[TwirlFlake](https://github.com/karhunenloeve/TwirlFlake)|
+|[dihedral multi-reference alignment](https://arxiv.org/abs/2107.05262)|[DihedralMRA](https://github.com/nirsharon/DihedralMRA)|
+|[deep learning interviews: hundreds of fully solved job interview questions from a wide range of key topics in ai](https://arxiv.org/abs/2201.00650)|[interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)|
 ## 2022-01-04
 |paper|code|
 |---|---|
