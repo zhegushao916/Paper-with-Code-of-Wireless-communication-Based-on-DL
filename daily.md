@@ -1,3 +1,8 @@
+## 2022-01-10
+|paper|code|
+|---|---|
+|[automatic open-world reliability assessment](https://arxiv.org/abs/2011.05506)|[Automatic-Open-World-Reliability-Assessment](https://github.com/ROBOTICSENGINEER/Automatic-Open-World-Reliability-Assessment)|
+|[min2net: end-to-end multi-task learning for subject-independent motor imagery eeg classification](https://arxiv.org/abs/2102.03814)|[min2net](https://github.com/iobt-vistec/min2net)|
 ## 2022-01-07
 |paper|code|
 |---|---|
