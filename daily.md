@@ -1,3 +1,17 @@
+## 2022-01-12
+|paper|code|
+|---|---|
+|[rnns on monitoring physical activity energy expenditure in older people](https://arxiv.org/abs/2006.01169)|[GOTOV_PAEE_publication](https://github.com/parastelios/GOTOV_PAEE_publication)|
+|[evaluation of interpretability for deep learning algorithms in eeg emotion recognition: a case study in autism](https://arxiv.org/abs/2111.13208)|[deep-learning-emotion-decoding-using-eeg-data-from-autism-individuals](https://github.com/meiyor/deep-learning-emotion-decoding-using-eeg-data-from-autism-individuals)|
+|[spectrum surveying: active radio map estimation with autonomous uavs](https://arxiv.org/abs/2201.04125)|[spectrum_surveying_with_uavs](https://github.com/uiano/spectrum_surveying_with_uavs)|
+## 2022-01-11
+|paper|code|
+|---|---|
+|[communication-efficient federated learning via predictive coding](https://arxiv.org/abs/2108.00918)|[predictive-coding-fl](https://github.com/kai-yue/predictive-coding-fl)|
+|[stability analysis of unfolded wmmse for power allocation](https://arxiv.org/abs/2110.07471)|[stability-uwmmse](https://github.com/archo48/stability-uwmmse)|
+|[noisy neonatal chest sound separation for high-quality heart and lung sounds](https://arxiv.org/abs/2201.03211)|[heart-and-lung-sound-separation](https://github.com/egrooby-monash/heart-and-lung-sound-separation)|
+|[a high-level track fusion scheme for circular quantities](https://arxiv.org/abs/2201.03267)|[circularfusionoperator](https://github.com/soerenkoh/circularfusionoperator)|
+|[understanding entropy coding with asymmetric numeral systems (ans): a statistician's perspective](https://arxiv.org/abs/2201.01741)|[understanding-ans](https://github.com/bamler-lab/understanding-ans)|
 ## 2022-01-10
 |paper|code|
 |---|---|
