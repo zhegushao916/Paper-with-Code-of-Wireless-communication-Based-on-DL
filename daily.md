@@ -1,11 +1,17 @@
+## 2022-01-26
+|paper|code|
+|---|---|
+|[low complexity channel estimation with neural network solutions](https://arxiv.org/abs/2201.09934)|[Interpolation-ResNet](https://github.com/dianixn/Interpolation-ResNet)|
+|[neural architecture search for spiking neural networks](https://arxiv.org/abs/2201.10355)|[neural-architecture-search-for-spiking-neural-networks](https://github.com/intelligent-computing-lab-yale/neural-architecture-search-for-spiking-neural-networks)|
 ## 2022-01-25
 |paper|code|
 |---|---|
-|[open community platform for hearing aid algorithm research: open master hearing aid (openmha)](https://arxiv.org/abs/2103.02313)|[openMHA](https://github.com/HoerTech-gGmbH/openMHA)|
+|[open community platform for hearing aid algorithm research: open master hearing aid (openmha)](https://arxiv.org/abs/2103.02313)|[softx-d-21-00049](https://github.com/elseviersoftwarex/softx-d-21-00049)|
 |[kalmannet: neural network aided kalman filtering for partially known dynamics](https://arxiv.org/abs/2107.10043)|[KalmanNet_TSP](https://github.com/KalmanNet/KalmanNet_TSP)|
 |[a new non-negative matrix co-factorisation approach for noisy neonatal chest sound separation](https://arxiv.org/abs/2109.03275)|[heart-and-lung-sound-separation](https://github.com/egrooby-monash/heart-and-lung-sound-separation)|
 |[real-time multi-level neonatal heart and lung sound quality assessment for telehealth applications](https://arxiv.org/abs/2109.15127)|[heart-and-lung-signal-quality-estimation](https://github.com/egrooby-monash/heart-and-lung-signal-quality-estimation)|
 |[decoding reed-muller codes with successive codeword permutations](https://arxiv.org/abs/2109.02122)|[SPRLD](https://github.com/nghiadt05/SPRLD)|
+|[an unsupervised deep unrolling framework for constrained optimization problems in wireless networks](https://arxiv.org/abs/2201.08994)|[usrmnet-hwgcn](https://github.com/soulven/usrmnet-hwgcn)|
 ## 2022-01-20
 |paper|code|
 |---|---|
