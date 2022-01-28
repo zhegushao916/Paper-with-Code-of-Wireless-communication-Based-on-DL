@@ -1,3 +1,7 @@
+## 2022-01-27
+|paper|code|
+|---|---|
+|[grouped variable selection for generalized eigenvalue problems](https://arxiv.org/abs/2105.13667)|[benchmarkStudySensorSelection](https://github.com/AlexanderBertrandLab/benchmarkStudySensorSelection)|
 ## 2022-01-26
 |paper|code|
 |---|---|
