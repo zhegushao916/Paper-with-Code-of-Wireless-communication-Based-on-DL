@@ -1,3 +1,8 @@
+## 2022-02-01
+|paper|code|
+|---|---|
+|[reconfigurable intelligent surface phase hopping for ultra-reliable communications](https://arxiv.org/abs/2107.11852)|[ris-phase-hopping](https://gitlab.com/klb2/ris-phase-hopping)|
+|[decoding reed-muller codes with successive codeword permutations](https://arxiv.org/abs/2109.02122)|[SPRLD](https://github.com/nghiadt05/SPRLD)|
 ## 2022-01-31
 |paper|code|
 |---|---|
