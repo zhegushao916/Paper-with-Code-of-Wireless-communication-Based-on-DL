@@ -1,3 +1,8 @@
+## 2022-02-07
+|paper|code|
+|---|---|
+|[millimeter wave wireless assisted robot navigation with link state classification](https://arxiv.org/abs/2110.14789)|[mmwRobotNav](https://github.com/nyu-wireless/mmwRobotNav)|
+|[maximum likelihood estimation of optimal receiver operating characteristic curves from likelihood ratio observations](https://arxiv.org/abs/2202.01956)|[mleroc](https://github.com/veggente/mleroc)|
 ## 2022-02-04
 |paper|code|
 |---|---|
