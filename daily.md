@@ -1,8 +1,16 @@
+## 2022-02-10
+|paper|code|
+|---|---|
+|[deep augmented music algorithm for data-driven doa estimation](https://arxiv.org/abs/2109.10581)|[icassp22](https://github.com/da-music/icassp22)|
+|[uncertainty in data-driven kalman filtering for partially known state-space models](https://arxiv.org/abs/2110.04738)|[errcov_icassp22](https://github.com/kalmannet/errcov_icassp22)|
+|[admm-dad net: a deep unfolding network for analysis compressed sensing](https://arxiv.org/abs/2110.06986)|[ADMM-DAD](https://github.com/vicky-k-19/ADMM-DAD)|
+|[active sensing for communications by learning](https://arxiv.org/abs/2112.04075)|[dl-activesensing](https://github.com/foadsohrabi/dl-activesensing)|
 ## 2022-02-09
 |paper|code|
 |---|---|
 |[a deep neural network for ssvep-based brain-computer interfaces](https://arxiv.org/abs/2011.08562)|[Deep-SSVEP-BCI](https://github.com/osmanberke/Deep-SSVEP-BCI)|
 |[rtsnet: deep learning aided kalman smoothing](https://arxiv.org/abs/2110.04717)|[rtsnet_icassp22](https://github.com/kalmannet/rtsnet_icassp22)|
+|[a covariant, discrete time-frequency representation tailored for zero-based signal detection](https://arxiv.org/abs/2202.03835)|[kravchuk-transform-and-its-zeros](https://github.com/bpascal-fr/kravchuk-transform-and-its-zeros)|
 |[unsupervised source separation via self-supervised training](https://arxiv.org/abs/2202.03875)|[mixcycle](https://github.com/ertug/mixcycle)|
 ## 2022-02-08
 |paper|code|
