@@ -1,3 +1,7 @@
+## 2022-02-11
+|paper|code|
+|---|---|
+|[an information-theoretic justification for model pruning](https://arxiv.org/abs/2102.08329)|[SuRP](https://github.com/BerivanIsik/SuRP)|
 ## 2022-02-10
 |paper|code|
 |---|---|
@@ -5,6 +9,7 @@
 |[uncertainty in data-driven kalman filtering for partially known state-space models](https://arxiv.org/abs/2110.04738)|[errcov_icassp22](https://github.com/kalmannet/errcov_icassp22)|
 |[admm-dad net: a deep unfolding network for analysis compressed sensing](https://arxiv.org/abs/2110.06986)|[ADMM-DAD](https://github.com/vicky-k-19/ADMM-DAD)|
 |[active sensing for communications by learning](https://arxiv.org/abs/2112.04075)|[dl-activesensing](https://github.com/foadsohrabi/dl-activesensing)|
+|[adjacent-bits-swapped polar codes: a new code construction to speed up polarization](https://arxiv.org/abs/2202.04454)|[abs-polar](https://github.com/plumjelly/abs-polar)|
 ## 2022-02-09
 |paper|code|
 |---|---|
