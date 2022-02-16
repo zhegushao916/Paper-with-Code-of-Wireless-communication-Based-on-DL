@@ -1,3 +1,13 @@
+## 2022-02-15
+|paper|code|
+|---|---|
+|[demystifying why local aggregation helps: convergence analysis of hierarchical sgd](https://arxiv.org/abs/2010.12998)|[hierarchical-sgd](https://github.com/c3atuofu/hierarchical-sgd)|
+|[coded resnext: a network for designing disentangled information paths](https://arxiv.org/abs/2202.05343)|[coded-resnext](https://github.com/avranasa/coded-resnext)|
+## 2022-02-14
+|paper|code|
+|---|---|
+|[a dynamic response recovery framework using ambient synchrophasor data](https://arxiv.org/abs/2104.05614)|[dy_resp_pkg_new](https://github.com/ShaohuiLiu/dy_resp_pkg_new)|
+|[graphon-aided joint estimation of multiple graphs](https://arxiv.org/abs/2202.05686)|[jointinf_graphs_graphon](https://github.com/mn51/jointinf_graphs_graphon)|
 ## 2022-02-11
 |paper|code|
 |---|---|
