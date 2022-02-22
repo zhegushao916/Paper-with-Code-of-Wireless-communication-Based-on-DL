@@ -1,3 +1,10 @@
+## 2022-02-21
+|paper|code|
+|---|---|
+|[eeg-based cross-subject driver drowsiness recognition with an interpretable convolutional neural network](https://arxiv.org/abs/2107.09507)|[eeg-based-cross-subject-driver-drowsiness-recognition-with-an-interpretable-cnn](https://github.com/cuijiancorbin/eeg-based-cross-subject-driver-drowsiness-recognition-with-an-interpretable-cnn)|
+|[feasibility of modeling orthogonal frequency-division multiplexing communication signals with unsupervised generative adversarial networks](https://arxiv.org/abs/2109.05107)|[ofdm-gan](https://github.com/usnistgov/ofdm-gan)|
+|[towards best practice of interpreting deep learning models for eeg-based brain computer interfaces](https://arxiv.org/abs/2202.06948)|[Towards-Best-Practice-of-Interpreting-Deep-Learning-Models-for-EEG-based-BCI](https://github.com/cuijiancorbin/Towards-Best-Practice-of-Interpreting-Deep-Learning-Models-for-EEG-based-BCI)|
+|[signal decomposition using masked proximal operators](https://arxiv.org/abs/2202.09338)|[signal-decomposition](https://github.com/cvxgrp/signal-decomposition)|
 ## 2022-02-18
 |paper|code|
 |---|---|
