@@ -1,8 +1,15 @@
+## 2022-03-02
+|paper|code|
+|---|---|
+|[two-dimensional multi-target detection: an autocorrelation analysis approach](https://arxiv.org/abs/2105.06765)|[MTD-2D](https://github.com/krshay/MTD-2D)|
+|[phycom: a multi-layer parametric network for joint linear impairments compensation and symbol detection](https://arxiv.org/abs/2203.00266)|[PhyCOM](https://github.com/vincentchoqueuse/PhyCOM)|
+|[tcmi: a non-parametric mutual-dependence estimator for multivariate continuous distributions](https://arxiv.org/abs/2001.11212)|[tcmi](https://github.com/BenjaminRegler/tcmi)|
 ## 2022-03-01
 |paper|code|
 |---|---|
 |[depth estimation from monocular images and sparse radar using deep ordinal regression network](https://arxiv.org/abs/2107.07596)|[DORN_radar](https://github.com/lochenchou/DORN_radar)|
 |[automated parkinson's disease detection and affective analysis from emotional eeg signals](https://arxiv.org/abs/2202.12936)|[pd-eeg](https://github.com/ravikiranrao/pd-eeg)|
+|[signal-to-noise ratio is more important than sampling rate in beat-to-beat interval estimation from optical sensors](https://arxiv.org/abs/2202.13651)|[ppg_sim_snr_fs](https://github.com/kismed-tuda/ppg_sim_snr_fs)|
 |[fast off-the-grid sparse recovery with over-parametrized projected gradient descent](https://arxiv.org/abs/2202.13757)|[opcomp_sparse_recovery](https://github.com/pjbenard/opcomp_sparse_recovery)|
 |[admm-dad net: a deep unfolding network for analysis compressed sensing](https://arxiv.org/abs/2110.06986)|[ADMM-DAD](https://github.com/vicky-k-19/ADMM-DAD)|
 |[sparsity-aware neural user behavior modeling in online interaction platforms](https://arxiv.org/abs/2202.13491)|[Inf-VAE](https://github.com/aravindsankar28/Inf-VAE)|
