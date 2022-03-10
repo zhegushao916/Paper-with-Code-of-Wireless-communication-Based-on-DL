@@ -1,3 +1,12 @@
+## 2022-03-09
+|paper|code|
+|---|---|
+|[reconfigurable intelligent surfaces: a signal processing perspective with wireless applications](https://arxiv.org/abs/2102.00742)|[spm_ris](https://github.com/emilbjornson/spm_ris)|
+|[the terminating-knockoff filter: fast high-dimensional variable selection with false discovery rate control](https://arxiv.org/abs/2110.06048)|[tknock](https://github.com/jasinmachkour/tknock)|
+|[roadside lidar vehicle detection and tracking using range and intensity background subtraction](https://arxiv.org/abs/2201.04756)|[roadside-lidar-vehicle-detection-and-tracking-background-subtraction](https://github.com/teryzh/roadside-lidar-vehicle-detection-and-tracking-background-subtraction)|
+|[coding theory package for macaulay2](https://arxiv.org/abs/2007.06795)|[Workshop-2020-Cleveland](https://github.com/Macaulay2/Workshop-2020-Cleveland)|
+|[information theoretic structured generative modeling](https://arxiv.org/abs/2110.05794)|[structured-generative-modeling](https://github.com/bohu615/structured-generative-modeling)|
+|[fasura: a scheme for quasi-static massive mimo unsourced random access channels](https://arxiv.org/abs/2202.11042)|[mmtc](https://github.com/engprojects/mmtc)|
 ## 2022-03-08
 |paper|code|
 |---|---|
@@ -7,6 +16,7 @@
 |[unrolling palm for sparse semi-blind source separation](https://arxiv.org/abs/2112.05694)|[lpalm](https://github.com/mfahes/lpalm)|
 |[early stopping for deep image prior](https://arxiv.org/abs/2112.06074)|[early_stopping_for_dip](https://github.com/sun-umn/early_stopping_for_dip)|
 |[transformers in time series: a survey](https://arxiv.org/abs/2202.07125)|[time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review)|
+|[hrtf measurement for accurate identification of binaural sound localization cues](https://arxiv.org/abs/2203.03166)|[hrtf-construction](https://github.com/hansaram80/hrtf-construction)|
 ## 2022-03-07
 |paper|code|
 |---|---|
