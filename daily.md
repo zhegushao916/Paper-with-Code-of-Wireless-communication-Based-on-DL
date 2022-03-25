@@ -1,3 +1,11 @@
+## 2022-03-24
+|paper|code|
+|---|---|
+|[lggnet: learning from local-global-graph representations for brain-computer interface](https://arxiv.org/abs/2105.02786)|[LGG](https://github.com/yi-ding-cs/LGG)|
+|[estimation of consistent time delays in subsample via auxiliary-function-based iterative updates](https://arxiv.org/abs/2203.09723)|[auxtde](https://github.com/onolab-tmu/auxtde)|
+|[fast quantum state reconstruction via accelerated non-convex programming](https://arxiv.org/abs/2104.07006)|[MiFGD](https://github.com/gidiko/MiFGD)|
+|[scale-invariant representation of machine learning](https://arxiv.org/abs/2109.02914)|[powerlaw_ml](https://github.com/sungyeop/powerlaw_ml)|
+|[node representation learning in graph via node-to-neighbourhood mutual information maximization](https://arxiv.org/abs/2203.12265)|[n2n](https://github.com/dongwei156/n2n)|
 ## 2022-03-23
 |paper|code|
 |---|---|
