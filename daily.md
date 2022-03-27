@@ -1,6 +1,7 @@
 ## 2022-03-25
 |paper|code|
 |---|---|
+|[complex frequency domain linear prediction: a tool to compute modulation spectrum of speech](https://arxiv.org/abs/2203.13216)|[fdlp_spectrogram](https://github.com/sadhusamik/fdlp_spectrogram)|
 |[distilling ghz states using stabilizer codes](https://arxiv.org/abs/2109.06248)|[ghz_distillation_qec](https://github.com/nrenga/ghz_distillation_qec)|
 ## 2022-03-24
 |paper|code|
