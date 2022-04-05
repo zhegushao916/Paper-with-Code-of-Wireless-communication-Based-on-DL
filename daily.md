@@ -1,3 +1,9 @@
+## 2022-04-04
+|paper|code|
+|---|---|
+|[complex frequency domain linear prediction: a tool to compute modulation spectrum of speech](https://arxiv.org/abs/2203.13216)|[fdlp_spectrogram](https://github.com/sadhusamik/fdlp_spectrogram)|
+|[a fast transformer-based general-purpose lossless compressor](https://arxiv.org/abs/2203.16114)|[a-fast-transformer-based-general-purpose-losslesscompressor](https://github.com/mynotwo/a-fast-transformer-based-general-purpose-losslesscompressor)|
+|[robust remote estimation over the collision channel in the presence of an intelligent jammer](https://arxiv.org/abs/2204.00148)|[cdc22](https://github.com/mullervasconcelos/cdc22)|
 ## 2022-04-01
 |paper|code|
 |---|---|
