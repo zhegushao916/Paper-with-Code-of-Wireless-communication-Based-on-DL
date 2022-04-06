@@ -1,7 +1,13 @@
+## 2022-04-05
+|paper|code|
+|---|---|
+|[electrocardio panorama: synthesizing new ecg views with self-supervision](https://arxiv.org/abs/2105.06293)|[Electrocardio-Panorama](https://github.com/WhatAShot/Electrocardio-Panorama)|
+|[fbdnn: filter banks and deep neural networks for portable and fast brain-computer interfaces](https://arxiv.org/abs/2109.02165)|[fbcnn](https://github.com/pedrorasb/fbcnn)|
+|[power allocation for wireless federated learning using graph neural networks](https://arxiv.org/abs/2111.07480)|[wirelessfl-pdgnet](https://github.com/bl166/wirelessfl-pdgnet)|
+|[variational message passing for online polynomial narmax identification](https://arxiv.org/abs/2204.00769)|[acc2022-vmpnarmax](https://github.com/biaslab/acc2022-vmpnarmax)|
 ## 2022-04-04
 |paper|code|
 |---|---|
-|[complex frequency domain linear prediction: a tool to compute modulation spectrum of speech](https://arxiv.org/abs/2203.13216)|[fdlp_spectrogram](https://github.com/sadhusamik/fdlp_spectrogram)|
 |[a fast transformer-based general-purpose lossless compressor](https://arxiv.org/abs/2203.16114)|[a-fast-transformer-based-general-purpose-losslesscompressor](https://github.com/mynotwo/a-fast-transformer-based-general-purpose-losslesscompressor)|
 |[robust remote estimation over the collision channel in the presence of an intelligent jammer](https://arxiv.org/abs/2204.00148)|[cdc22](https://github.com/mullervasconcelos/cdc22)|
 ## 2022-04-01
