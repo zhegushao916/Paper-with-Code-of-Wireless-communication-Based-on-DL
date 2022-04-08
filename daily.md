@@ -1,3 +1,7 @@
+## 2022-04-07
+|paper|code|
+|---|---|
+|[pareto-optimal clustering with the primal deterministic information bottleneck](https://arxiv.org/abs/2204.02489)|[pareto_dib](https://github.com/andrewktan/pareto_dib)|
 ## 2022-04-06
 |paper|code|
 |---|---|
