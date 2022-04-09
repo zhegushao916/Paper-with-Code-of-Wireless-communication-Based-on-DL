@@ -1,7 +1,16 @@
+## 2022-04-08
+|paper|code|
+|---|---|
+|[wifieye -- seeing over wifi made accessible](https://arxiv.org/abs/2204.01830)|[wifieye](https://github.com/pkindt/wifieye)|
+|[muleeg: a multi-view representation learning on eeg signals](https://arxiv.org/abs/2204.03272)|[muleeg](https://github.com/likith012/muleeg)|
+|[binary spatial random field reconstruction from non-gaussian inhomogeneous time-series observations](https://arxiv.org/abs/2204.03343)|[WarpedGaussianProcesses](https://github.com/ShunanSheng/WarpedGaussianProcesses)|
+|[rf signal transformation and classification using deep neural networks](https://arxiv.org/abs/2204.03564)|[rf_classification](https://github.com/umarkhalidcs/rf_classification)|
 ## 2022-04-07
 |paper|code|
 |---|---|
+|[hrtf measurement for accurate sound localization cues](https://arxiv.org/abs/2203.03166)|[hrtf-hats-kaist](https://github.com/han-saram/hrtf-hats-kaist)|
 |[pareto-optimal clustering with the primal deterministic information bottleneck](https://arxiv.org/abs/2204.02489)|[pareto_dib](https://github.com/andrewktan/pareto_dib)|
+|[spider-web enables stable, repairable, and encryptible algorithms under arbitrary local biochemical constraints in dna-based storage](https://arxiv.org/abs/2204.02855)|[dnaspiderweb](https://github.com/haolingzhang/dnaspiderweb)|
 ## 2022-04-06
 |paper|code|
 |---|---|
